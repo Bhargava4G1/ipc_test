@@ -1,6 +1,13 @@
+$ git status
+$ git add <file_name>
+$ git commit -m "<message>"
+$ git push
 
+
+in case git push is not working 
 Git token
-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
+this is example of token generated in github
+Ghp_ylgxWRa1iSDjdbrQmMw6g36aEs4HC50Tjqr1
 
 URL
 git remote set-url origin https://<token>@github.com/<username>/<repo>
