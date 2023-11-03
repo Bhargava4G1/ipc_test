@@ -1,0 +1,6 @@
+
+Git token
+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
+
+URL
+git remote set-url origin https://<token>@github.com/<username>/<repo>
